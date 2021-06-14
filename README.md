@@ -1,0 +1,1 @@
+Connect to hardhat node in metamask. Add it there as custom rpc with chain id 31337 connecting to http://127.0.0.1:8545
